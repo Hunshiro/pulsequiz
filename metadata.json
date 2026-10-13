@@ -1,0 +1,6 @@
+{
+  "name": "PulseQuiz Live",
+  "description": "Interactive real-time multiplayer quiz platform with .txt question parsing, tick-emoji answer detection, negative marking, interval leaderboards, and detailed participant analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
